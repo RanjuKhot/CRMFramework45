@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-08T18:19:58 IST" name="Default suite" finished-at="2025-03-08T18:21:39 IST" duration-ms="100887">
+    <groups>
+      <group name="regressionTest">
+        <method signature="CreatecontactTest.CreateContact()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" name="CreateContact" class="ContactModule.CreatecontactTest"/>
+        <method signature="CreatecontactTest.CreateContactWithSupportdate()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" name="CreateContactWithSupportdate" class="ContactModule.CreatecontactTest"/>
+      </group> <!-- regressionTest -->
+      <group name="smokeTest">
+        <method signature="CreatecontactTest.CreateContact()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" name="CreateContact" class="ContactModule.CreatecontactTest"/>
+        <method signature="CreatecontactTest.CreateContactWithSupportdate()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" name="CreateContactWithSupportdate" class="ContactModule.CreatecontactTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2025-03-08T18:19:58 IST" name="Default test" finished-at="2025-03-08T18:21:39 IST" duration-ms="100887">
+      <class name="ContactModule.CreatecontactTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" started-at="2025-03-08T18:19:58 IST" name="configBS" finished-at="2025-03-08T18:19:58 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" started-at="2025-03-08T18:19:58 IST" name="configBC" finished-at="2025-03-08T18:20:01 IST" duration-ms="2839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" started-at="2025-03-08T18:20:01 IST" name="configBM" finished-at="2025-03-08T18:21:03 IST" duration-ms="62490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="CreateContact()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" started-at="2025-03-08T18:21:03 IST" name="CreateContact" finished-at="2025-03-08T18:21:17 IST" duration-ms="14156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateContact -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" started-at="2025-03-08T18:21:17 IST" name="configAM" finished-at="2025-03-08T18:21:19 IST" duration-ms="1735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" started-at="2025-03-08T18:21:19 IST" name="configBM" finished-at="2025-03-08T18:21:23 IST" duration-ms="3647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="CreateContactWithSupportdate()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" started-at="2025-03-08T18:21:23 IST" name="CreateContactWithSupportdate" finished-at="2025-03-08T18:21:36 IST" duration-ms="13843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateContactWithSupportdate -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" started-at="2025-03-08T18:21:36 IST" name="configAM" finished-at="2025-03-08T18:21:38 IST" duration-ms="1701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" started-at="2025-03-08T18:21:38 IST" name="configAC" finished-at="2025-03-08T18:21:39 IST" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:ContactModule.CreatecontactTest@38c6f217]" started-at="2025-03-08T18:21:39 IST" name="configAS" finished-at="2025-03-08T18:21:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- ContactModule.CreatecontactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
