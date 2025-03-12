@@ -7,6 +7,7 @@ public class Demo {
   System.out.println("print");
   System.out.println("welcome");
   //push
+  //pull
 	}
 
 }
