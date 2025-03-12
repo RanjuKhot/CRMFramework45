@@ -5,14 +5,21 @@ public class Demo {
 	public static void main(String[] args) {
 		
 		System.out.println("print");
-//push
 		//pull
+		//welcome
+//push
 		//push
 		//welcome
 		//welcome
-	//good morning	welcome
+		//welcome
 		//khot
+<<<<<<< HEAD
 		//push
 	}
+=======
+		//good morning
+		}
+	
+>>>>>>> refs/remotes/origin/master
 
 }

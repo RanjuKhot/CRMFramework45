@@ -6,6 +6,10 @@ public class Demo {
 		// TODO Auto-generated method stub
 System.out.println("print");
 //push
+<<<<<<< HEAD
+=======
+//good morning
+>>>>>>> refs/remotes/origin/master
 	}
 
 }
