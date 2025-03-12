@@ -6,9 +6,11 @@ public class Demo {
 		
 		System.out.println("print");
 //push
+		//pull
 		//push
 		//welcome
 		//welcome
+	//good morning	welcome
 	}
 
 }
