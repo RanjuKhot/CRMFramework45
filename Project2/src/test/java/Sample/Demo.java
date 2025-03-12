@@ -11,6 +11,7 @@ public class Demo {
 		//welcome
 		//welcome
 	//good morning	welcome
+		//khot
 	}
 
 }
